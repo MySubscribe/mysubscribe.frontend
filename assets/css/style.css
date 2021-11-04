@@ -17,7 +17,7 @@
 
 -----------------------------------------------------------------------------------*/
 /*===========================
-      01.COMMON css 
+      01.COMMON css
 ===========================*/
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Poppins:300,400,500,600,700&display=swap");
 body {
@@ -489,7 +489,7 @@ p {
     transform: rotate(-130deg); } }
 
 /*===========================
-      02.HEADER css 
+      02.HEADER css
 ===========================*/
 /*===== NAVBAR =====*/
 .navbar-area {
@@ -859,7 +859,7 @@ p {
         font-size: 38px; } }
     .header-hero-content .header-title span {
       display: contents;
-      color: #0898E7; }
+      color: #2257E7; }
   .header-hero-content .text {
     margin-top: 30px; }
   .header-hero-content ul {
@@ -950,7 +950,7 @@ p {
           max-width: 250px; } }
 
 /*===========================
-      03.SERVICES css 
+      03.SERVICES css
 ===========================*/
 .single-services {
   -webkit-box-shadow: 0px 0px 10px 0px rgba(154, 154, 154, 0.16);
@@ -1036,7 +1036,7 @@ p {
     box-shadow: 0px 15px 17px 0px rgba(154, 154, 154, 0.16); }
 
 /*===========================
-       04.ABOUT css 
+       04.ABOUT css
 ===========================*/
 .about-area {
   background-color: #F3FDFF; }
@@ -1107,7 +1107,7 @@ p {
 
 
 /*===========================
-     10.DOWNLOAD css 
+     10.DOWNLOAD css
 ===========================*/
 .download-area .download-image {
   padding-top: 65px;
@@ -1203,7 +1203,7 @@ p {
           box-shadow: 0px 4px 25px 0px rgba(82, 90, 99, 0.4); }
 
 /*===========================
-     10.FOOTER css 
+     10.FOOTER css
 ===========================*/
 .footer-area {
   position: relative;
